@@ -1,0 +1,9 @@
+Package: com.nyquil.mojoxdarkrepack
+Name: MojoX Dark (repack)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A repack of my fav theme by M-Rifai.
+Author: M-Rifai
+Maintainer: NyQuil
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
