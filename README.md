@@ -6,6 +6,8 @@ A repack of my favorite theme!
 
 Seemingly lost to the sands of time. I love this theme and M-Rifai isn't active anymore...
 
+# Install via Filza for less of a hastle.
+
 !!!!!!!!!!!!!!!!!!!! IF YOU WANT THIS REMOVED HIT ME UP ON TWITTER @ltsNyQuil !!!!!!!!!!!!!!!!!!!!
 
 The Reddit post! 
