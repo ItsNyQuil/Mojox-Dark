@@ -6,9 +6,19 @@ A repack of my favorite theme!
 
 Seemingly lost to the sands of time. I love this theme and M-Rifai isn't active anymore...
 
-# Install via Filza for less of a hastle.
+Latest release [here](https://github.com/ItsNyQuil/Mojox-Dark/releases/tag/1.0)
 
-!!!!!!!!!!!!!!!!!!!! IF YOU WANT THIS REMOVED HIT ME UP ON TWITTER @ltsNyQuil !!!!!!!!!!!!!!!!!!!!
+# Install via Filza for less of a hassle
 
-The Reddit post! 
-https://www.reddit.com/r/iOSthemes/comments/n2fjvt/update_mojox_dark_now_has_2100_icons_available_on/
+
+
+
+===========================================================================================
+
+I DID NOT DESIGN OR MAKE THIS THEME. ONLY RECOMPILED IT TO WORK WITH ROOTLESS. M-Rifai IS THE CREATOR
+
+===========================================================================================
+
+!!!!!!!!!!!!!!!!!!!!! IF YOU WANT THIS REMOVED HIT ME UP ON TWITTER @ltsNyQuil !!!!!!!!!!!!!!!!!!!!!!
+
+===========================================================================================
